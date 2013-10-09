@@ -1,8 +1,4 @@
-nes.code
+utility
 ========
 
-software for the NES (assembler and C)
-
-includes
-
-. demos
+utilities
